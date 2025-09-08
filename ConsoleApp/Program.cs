@@ -1,4 +1,6 @@
-﻿namespace ConsoleApp
+﻿using System;
+
+namespace ConsoleApp
 {
     internal class Program
     {
@@ -6,7 +8,7 @@
         {
             int x = 5;
             int y = 10;
-            Console.WriteLine ("5 + 10 = {}", x + y);
+            Console.WriteLine($"5 + 10 = {x + y}");
             Console.ReadKey();
         }
     }
