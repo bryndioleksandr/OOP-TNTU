@@ -1,0 +1,7 @@
+ConsoleApp/obj/ConsoleApp.csproj.nuget.dgspec.json ConsoleApp/obj/ConsoleApp.csproj.nuget.g.props ConsoleApp/obj/ConsoleApp.csproj.nuget.g.targets ConsoleApp/obj/Debug ConsoleApp/obj/project.assets.json ConsoleApp/obj/project.nuget.cache
+ConsoleApp/bin/Debug
+.vs/
+*.user
+*.suo
+bin/
+obj/
